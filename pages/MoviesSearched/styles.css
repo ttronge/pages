@@ -1,0 +1,20 @@
+.movies_searched--searched {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+}
+
+.header--searched {
+  width: auto;
+  height: auto;
+}
+
+.title--searched {
+  font-weight: 600;
+  color: #5626b6;
+}
+
+.movies--searched {
+  width: 100%;
+  height: auto;
+}

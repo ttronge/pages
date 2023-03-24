@@ -1,0 +1,32 @@
+.trending {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+}
+
+.header--trending {
+  width: auto;
+  height: auto;
+  padding: 10px;
+}
+
+.title--trending {
+  width: auto;
+  height: 100%;
+  font-weight: 600;
+  color: #6441b1;
+}
+
+.movies--trending {
+  width: 100%;
+  min-height: 100vh;
+  height: auto;
+}
+
+@media only screen and (max-width: 700px) {
+
+  .movies--trending {
+    padding: 0px;
+  }
+  
+}
